@@ -11,7 +11,7 @@ def lotto_f():
     return lotto
 
 
-# check
+# check 555
 
 if __name__ == '__main__':
     lotto=lotto_f()
