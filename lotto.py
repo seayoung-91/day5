@@ -11,7 +11,7 @@ def lotto_f():
     return lotto
 
 # result 2
-
+# result 3
 if __name__ == '__main__':
     lotto=lotto_f()
     print(sorted(lotto))
