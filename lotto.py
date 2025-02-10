@@ -10,6 +10,8 @@ def lotto_f():
                 break
     return lotto
 
+
+# check
+
 if __name__ == '__main__':
     lotto=lotto_f()
-    print(sorted(lotto))
