@@ -13,6 +13,7 @@ def lotto_f():
 # result 2
 # result 3
 # result 4
+# result 10
 if __name__ == '__main__':
     lotto=lotto_f()
     print(sorted(lotto))
