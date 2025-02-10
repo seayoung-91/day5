@@ -10,8 +10,12 @@ def lotto_f():
                 break
     return lotto
 
-
+# werwerwerwer
 # check 555123234324aaaaa
+# werwerwer
+
+
 
 if __name__ == '__main__':
     lotto=lotto_f()
+
